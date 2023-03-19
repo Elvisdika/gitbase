@@ -21,7 +21,7 @@ input{
     border: 1px solid #918383;
     background-color: #87b8b8;
     box-shadow: 1px 2px 1px 2px rgb(red, green, blue);
-    color: #c9c2c2
+    color: #c9c2c2;
     outline: none;
     font-size: 18px;
 }
@@ -41,4 +41,7 @@ input[type=submit] {
     cursor: pointer;
     background-color: blanchedalmond;
 
+}
+#submit-button:hover { 
+  background-color: yellow;
 }
